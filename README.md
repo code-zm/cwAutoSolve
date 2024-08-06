@@ -6,7 +6,7 @@ A Python script to automate solving coding challenges on CodeWars using Selenium
 - Git
 - Chrome Browser
 - ChromeDriver (Compatible with your Chrome version)
-- OpenAI API Access
+- OpenAI API Key
 
 ## Installation
 
