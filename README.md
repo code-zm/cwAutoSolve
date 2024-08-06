@@ -32,6 +32,7 @@ pip install -r requirements.txt
 Before running the script, you need to set up the config.txt file with your personal details and API key.
 
 1. **Update the 'config.txt' File**
+
 *Example 'config.txt' file:*
 ```plaintext
 API_KEY="sk-1234567890abcdef1234567890abcdef"
