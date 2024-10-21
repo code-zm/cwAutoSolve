@@ -4,7 +4,7 @@ A Python script to automate solving coding challenges on CodeWars using Selenium
 ## Prerequisites
 - Python 3.x
 - Git
-- Chrome Browser
+- Chromium Browser
 - ChromeDriver (Compatible with your Chrome version)
 - OpenAI API Key
 
