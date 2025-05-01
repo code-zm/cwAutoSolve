@@ -13,7 +13,7 @@ A Python script to automate solving coding challenges on CodeWars using Selenium
 1. **Clone the Repository**
 
 ```sh
-git clone https://github.com/zmain4/cwAutoSolver.git
+git clone https://github.com/code-zm/cwAutoSolver.git
 cd cwAutoSolver
 ```
 
